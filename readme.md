@@ -11,3 +11,12 @@ composer install
 ```bash
 ./vendor/bin/phpunit
 ```
+
+# Workflow
+```bash
+vagrant ssh
+php artisan make:test JobTest --unit
+php artisan make:job SampleJob
+./vendor/bin/phpunit
+```
+
