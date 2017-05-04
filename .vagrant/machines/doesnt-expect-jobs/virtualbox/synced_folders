@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/Code/doesnt-expect-jobs":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/Code/doesnt-expect-jobs","hostpath":"/home/rdok/code/tools/doesnt-expect-jobs","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/rdok/code/tools/doesnt-expect-jobs","disabled":false,"__vagrantfile":true}}}
