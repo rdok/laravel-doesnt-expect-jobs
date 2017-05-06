@@ -18,11 +18,9 @@ class DoesntExpectJobsTest extends TestCase
     /** @test */
     public function does_not_expect_any_job()
     {
-        $this->markTestSkipped();
-
         $this->doesntExpectJobs();
 
-        $this->dispatch(new SampleJob());
+//        $this->dispatch(new SampleJob());
     }
 
     private function doesntExpectJobs()
