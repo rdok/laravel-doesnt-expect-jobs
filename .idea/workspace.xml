@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2efb6a0e-a0fc-4feb-aac6-85d64081dd6b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.vagrant/machines/doesnt-expect-jobs/virtualbox/action_set_name" afterPath="$PROJECT_DIR$/.vagrant/machines/doesnt-expect-jobs/virtualbox/action_set_name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/DoesntExpectJobsTest.php" afterPath="$PROJECT_DIR$/tests/DoesntExpectJobsTest.php" />
-    </list>
+    <list default="true" id="2efb6a0e-a0fc-4feb-aac6-85d64081dd6b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +15,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="42" lean-forward="false" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
+              <first_editor relative-caret-position="21">
+                <caret line="1" column="87" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="88" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -218,12 +213,12 @@
       <option name="presentableId" value="Default" />
       <updated>1493940716537</updated>
       <workItem from="1493940717612" duration="968000" />
-      <workItem from="1494040617764" duration="444000" />
+      <workItem from="1494040617764" duration="587000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1412000" />
+    <option name="totallyTimeSpent" value="1555000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
@@ -797,8 +792,8 @@
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="42" lean-forward="false" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
+          <first_editor relative-caret-position="21">
+            <caret line="1" column="87" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="88" />
             <folding />
           </first_editor>
           <second_editor />
