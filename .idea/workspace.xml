@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2efb6a0e-a0fc-4feb-aac6-85d64081dd6b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/DoesntExpectJobsTest.php" afterPath="$PROJECT_DIR$/tests/DoesntExpectJobsTest.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,12 +13,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DoesntExpectJobsTest.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/DoesntExpectJobsTest.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-              <folding />
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="336">
+                <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -35,8 +36,8 @@
       <list>
         <option value="$PROJECT_DIR$/tests/ExampleTest.php" />
         <option value="$PROJECT_DIR$/.travis.yml" />
-        <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/tests/DoesntExpectJobsTest.php" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -219,7 +220,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1729000" />
+    <option name="totallyTimeSpent" value="1896000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
@@ -260,7 +261,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1494041732330" expanded="false" signature="11:76" ph="..." />
+            <marker date="1494041732330" expanded="true" signature="121:748" ph="{...}" />
+            <marker date="1494041732330" expanded="true" signature="200:301" ph="{...}" />
+            <marker date="1494041732330" expanded="true" signature="365:457" ph="{...}" />
+            <marker date="1494041732330" expanded="true" signature="498:746" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -774,7 +781,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-          <folding />
+          <folding>
+            <marker date="1494041732330" expanded="false" signature="11:76" ph="..." />
+            <marker date="1494041732330" expanded="true" signature="121:748" ph="{...}" />
+            <marker date="1494041732330" expanded="true" signature="200:301" ph="{...}" />
+            <marker date="1494041732330" expanded="true" signature="365:457" ph="{...}" />
+            <marker date="1494041732330" expanded="true" signature="498:746" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1276,7 +1289,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1494041732330" expanded="false" signature="11:76" ph="..." />
+            <marker date="1494041732330" expanded="true" signature="121:748" ph="{...}" />
+            <marker date="1494041732330" expanded="true" signature="200:301" ph="{...}" />
+            <marker date="1494041732330" expanded="true" signature="365:457" ph="{...}" />
+            <marker date="1494041732330" expanded="true" signature="498:746" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1292,7 +1311,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1494041732330" expanded="false" signature="11:76" ph="..." />
+            <marker date="1494041732330" expanded="true" signature="121:748" ph="{...}" />
+            <marker date="1494041732330" expanded="true" signature="200:301" ph="{...}" />
+            <marker date="1494041732330" expanded="true" signature="365:457" ph="{...}" />
+            <marker date="1494041732330" expanded="true" signature="498:746" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1802,22 +1827,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="21">
-            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/tests/DoesntExpectJobsTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+          <folding>
+            <marker date="1494041732330" expanded="false" signature="11:76" ph="..." />
+            <marker date="1494041732330" expanded="true" signature="121:748" ph="{...}" />
+            <marker date="1494041732330" expanded="true" signature="200:301" ph="{...}" />
+            <marker date="1494041732330" expanded="true" signature="365:457" ph="{...}" />
+            <marker date="1494041732330" expanded="true" signature="498:746" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/DoesntExpectJobsTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="336">
+            <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

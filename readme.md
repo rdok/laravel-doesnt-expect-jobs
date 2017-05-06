@@ -1,8 +1,8 @@
 ## Testing Larvel 5.1 - Doesnt' expect jobs
-[Does not expects any job](https://github.com/rdok/laravel-doesnt-expect-jobs/blob/doesnt-expect-jobs-fails/tests/DoesntExpectJobsTest.php#L19)  
+[Don't dispatch any jobs](https://github.com/rdok/laravel-doesnt-expect-jobs/blob/master/tests/DoesntExpectJobsTest.php#L23)  
 [![Build Status](https://travis-ci.org/rdok/laravel-doesnt-expect-jobs.svg?branch=master)](https://travis-ci.org/rdok/laravel-doesnt-expect-jobs)  
 *** 
-[Does not expects any job](https://github.com/rdok/laravel-doesnt-expect-jobs/blob/doesnt-expect-jobs-fails/tests/DoesntExpectJobsTest.php#L19)  
+[Dispatch a job](https://github.com/rdok/laravel-doesnt-expect-jobs/blob/doesnt-expect-jobs-fails/tests/DoesntExpectJobsTest.php#L19)  
 [![Build Status](https://api.travis-ci.org/rdok/laravel-doesnt-expect-jobs.svg?branch=doesnt-expect-jobs-fails)](https://travis-ci.org/rdok/laravel-doesnt-expect-jobs/jobs/229358491)
 
 ## Set Up
